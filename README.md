@@ -26,6 +26,7 @@ This analysis was based on these tables and yielded the following observations:
     * While the mentoring project is am excellent approach, there is an in sufficient number of candidates (1549) to replace the volume of retiring managers.
 ## Summary
 In summary:
+
     1. PH needs to start a significant recruiting and internal training project to prevent the exit of senior management from causing a leadership vacuum.
     2. PH should approach the youngest of this group (born 1955) with stay on bonuses to retain additional talent.  There are 13,075 'Senior' staff members in this group (see Appendix below)
     3. Depending on the companies retirement package there could also be significant financial implications.
