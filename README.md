@@ -23,7 +23,7 @@ This analysis was based on these tables and yielded the following observations:
    * Over 1/3 (90398/240124) of the total active employees will be retiring in the next few years (see Appendix for total employee count SQL)
    * Nearly 2/3 (57668/90398) of the retirees are Senior management. See: 
     [Retiring Titles](https://github.com/goldbala55/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
-   * PH will need to engage in a significant recruiting and/or retainment project to replace the potential flood of retirees.  Depending on the companies retirement package there could also be significant financial implications.
+   * PH will need to engage in a significant recruiting and/or retainment project to replace the potential flood of retirees.  
    * While the mentoring project is am excellent approach, there is an in sufficient number of candidates (1549) to replace the volume of retiring managers.
 ## Summary
 In summary:
