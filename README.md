@@ -1,6 +1,7 @@
 # Pewlett-Hackard-Analysis
 ## Project Overview
 The original project provided substantial details on retiring employees to PH management.  Upon further review they have requested additional analyses to provide insight into two key areas:
+
     1. The number of employees retiring by title
     2. Identify candidates for a mentoring program 
 
@@ -25,10 +26,10 @@ This analysis was based on these tables and yielded the following observations:
     * While the mentoring project is am excellent approach, there is an in sufficient number of candidates (1549) to replace the volume of retiring managers.
 ## Summary
 In summary:
-1. PH needs to start a significant recruiting and internal training project to prevent the exit of senior management from causing a leadership vacuum.
-2. PH should approach the youngest of this group (born 1955) with stay on bonuses to retain additional talent.  There are 13,075 'Senior' staff members in this group (see Appendix below)
-3. Depending on the companies retirement package there could also be significant financial implications.
-4. Starting the mentorship project with candidates from 1964 will substantially increase the number of potential candidates to 19,905 (see Appendix below)
+    1. PH needs to start a significant recruiting and internal training project to prevent the exit of senior management from causing a leadership vacuum.
+    2. PH should approach the youngest of this group (born 1955) with stay on bonuses to retain additional talent.  There are 13,075 'Senior' staff members in this group (see Appendix below)
+    3. Depending on the companies retirement package there could also be significant financial implications.
+    4. Starting the mentorship project with candidates from 1964 will substantially increase the number of potential candidates to 19,905 (see Appendix below)
 ## Appendix
 
 ### Total Active Employees at PH
